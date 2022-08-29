@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaradona_doc=self.webpackChunkmaradona_doc||[]).push([[3152],{4920:a=>{a.exports=JSON.parse('{"permalink":"/maradona-doc/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaradona_doc=self.webpackChunkmaradona_doc||[]).push([[2855],{6827:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/maradona-doc/blog/tags/docusaurus","allTagsPath":"/maradona-doc/blog/tags","count":4}')}}]);
